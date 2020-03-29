@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace MatchUp.Repository.Configurations
+namespace MatchUp.API.MatchUp.Repository.Configurations
 {
     public class SqlServerDbContext : DbContext
     {

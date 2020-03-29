@@ -1,4 +1,4 @@
-﻿using MatchUp.Repository.Configurations;
+﻿using MatchUp.API.MatchUp.Repository.Configurations;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc;
@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace MatchUp.API
+namespace MatchUp.API.MatchUp.API
 {
     public class Startup
     {

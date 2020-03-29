@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace MatchUp.API
+namespace MatchUp.API.MatchUp.API
 {
     public class Program
     {
