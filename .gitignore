@@ -65,3 +65,12 @@
 /.vs/MatchUp.API/v15/Server/sqlite3/storage.ide
 /.vs/MatchUp.API/v15/Server/sqlite3/storage.ide-shm
 /.vs/MatchUp.API/v15/Server/sqlite3/storage.ide-wal
+/MatcUp.Api.Sdk/obj/Debug/netstandard2.0/MatcUp.Api.Sdk.AssemblyInfo.cs
+/MatcUp.Api.Sdk/obj/Debug/netstandard2.0/MatcUp.Api.Sdk.AssemblyInfoInputs.cache
+/MatcUp.Api.Sdk/obj/Debug/netstandard2.0/MatcUp.Api.Sdk.assets.cache
+/MatcUp.Api.Sdk/obj/Debug/netstandard2.0/MatcUp.Api.Sdk.csproj.CoreCompileInputs.cache
+/MatcUp.Api.Sdk/obj/Debug/netstandard2.0/MatcUp.Api.Sdk.csprojAssemblyReference.cache
+/MatcUp.Api.Sdk/obj/MatcUp.Api.Sdk.csproj.nuget.cache
+/MatcUp.Api.Sdk/obj/MatcUp.Api.Sdk.csproj.nuget.g.props
+/MatcUp.Api.Sdk/obj/MatcUp.Api.Sdk.csproj.nuget.g.targets
+/MatcUp.Api.Sdk/obj/project.assets.json
